@@ -5,3 +5,4 @@ dmenu
 dmenu_path
 dmenu_run
 stest
+cleanup-sh
